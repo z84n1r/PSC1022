@@ -1,9 +1,177 @@
 java c
+Semester Two 2016
+Examination Period  
+Faculty of Pharmacy and Pharmaceutical Sciences
+EXAM CODES:                 PSC1022
+TITLE OF PAPER:             Bioorganic and Medicinal Chemistry II – Paper 1
+EXAM DURATION:         3 hours writing time
+Section A Multiple Choice Questions                                            [30 questions × 2 = 60 marks]
+1. Rank the following molecules from most basic to least basic:
+
+A I > II > III > IV
+B IV > III > I > II
+C I > III > IV > II
+D IV > III > II > I
+E I > IV > III > II
+2. Which one of the following amines can be prepared using the Gabriel synthesis [i.e. using potassium phthalimide]?
+
+3. What is the correct IUPAC name for the molecule below?
+
+A N,N,2-trimethylhexanamine
+B N,N-dimethyl-2-aminoheptane
+C N,N-dimethylheptan-2-amine
+D N,N-dimethyl-N(2)-heptylamine
+E N,N,2-dimethylaminoheptane Page 3 of 20
+4. Which one of the following reactions has a mechanism different from nucleophilic acyl addition?
+A Reduction of a ketone with NaBH4
+B Reaction of benzaldehyde with ethylmagnesium bromide
+C Acid catalysed reaction of acetone and ethylene glycol (HOCH2CH2OH)
+D Formation of the cyclic hemiacetal from 5-hydroxypentanal
+E Esterification of butanol with acetic anhydride
+5. What functional group(s) can be found in the acidic hydrolysis product of the compound below?
+
+A alcohol and aldehyde
+B alcohol only
+C alcohol and ketone
+D alcohol and carboxylic acid
+E alcohol and ether
+6. Which one of the following compound pairs represents a pair of tautomers?
+
+7. Rank the following carboxylic acid derivatives in order of increasing their reactivity with benzylamine (the least reactive first):
+
+A IV < III < II < I
+B IV < III < I < II
+C IV < I < II < III
+D I < IV < II < III
+E I < IV < II < III
+8. Rank the following molecules from most acidic to least acidic:
+
+A IV > II > I > III
+B IV > III > I > II
+C II > IV > I > III
+D IV > II > I = III
+E II > IV > I = III
+9. Which is the correct structure of benzyl benzoate?
+
+10. Which one of the following nucleophilic addition or substitution reactions proceeds well without acid catalysis?
+A benzoic acid and ethanol (esterification)
+B ethyl butanoate and water (hydrolysis)
+C acetophenone and butylmagnesium bromide (Grigniard reaction)
+D cyclohexanone and excess of methanol (acetal formation)
+E methyl hexanoate and isopropanol (transesterification)
+11. Which reagents are suitable for the transformation below?
+
+A 1) thionyl chloride, 2) benzyl alcohol (phenylmethanol)
+B 1) LiAlH4, 2) benzoyl chloride
+C 1) water, H+, 2) benzoyl chloride
+D 1) LiAlH4, 2) benzaldehyde
+E 1) KMnO4, 2) benzyl alcohol (phenylmethanol)
+12. Which one of the following compounds is the product of reaction between hexanoic acid and hexanamine in water at room temperature?
+
+13. Which statement on Ziegler-Natta polymerisation is correct?
+A Its mechanism involves free radical formation
+B This method is applied for the synthesis of step-growth polymers
+C Insertion of an alkene is one of the steps代 写PSC1022 Bioorganic and Medicinal Chemistry II – Paper 1SQL
+代做程序编程语言 in this reaction
+D This is a metal-catalysed oxidation by mechanism
+E This reaction requires very high temperature
+14. What is the correct classification of a polymer below?
+
+A polyurethane
+B polyester
+C polyamide
+D polycarbonate
+E polyacrylate
+15. The magnetic properties of a complex depend on
+A the number of donor atoms
+B the number of unpaired electrons
+C the magnetic properties of the ligand
+D options A and B
+E options B and C
+16. Ligands such as ethylenediamine are referred to as
+A diandontate
+B polyoate
+C bidentate
+D bidensate
+E didentate
+17. Which one of the following vitamins is NOT a lipid (lipophilic molecules)?
+A Vitamin A
+B Vitamin K
+C Vitamin C
+D Vitamin D
+E Vitamin E
+18. Which one of the following fatty acids is more likely to commonly occur in nature?
+
+19. What will reaction of D-ribose (below) with LiAlH4 yield?
+
+A a single chiral alditol
+B a pair of enantiomeric alditols
+C two diastereomers
+D a meso compound
+E a chiral salt of aldonic acid
+20. Which one of the structures below corresponds to L-ribulose (a ketopentose)?
+
+21. Assign the stereocentres in mannose (below) according to the S/R-system.
+
+A 2R, 3R, 4R, 5R
+B 2R, 3R, 4S, 5S
+C 2R, 3S, 4R, 5S
+D 2S, 3S, 4R, 5R
+E 2S, 3R, 4S, 5R
+22. Which term better describes the relationship of aldonic acids derived from D-glucose and L-glucose?
+A a single chiral alditol
+B two enantiomers
+C two diastereomers
+D a meso compound
+E a chiral salt of aldonic acid
+23. Which one of the following sets of amino acids contains only hydrophobic amino acids?
+A Phe, Ser, Asp
+B Met, Gly, Glu
+C Val, Trp, Ile
+D Val, Lys, Gly
+E Arg, Phe, Trp
+24. Peptapeptide Ala-Gly-Arg-His-Phe was treated with trypsin and chymotrypsin and then subjected to electrophoresis at pH = 7. Identify a fragment, which is formed from this pentapeptide and moved further to the cathode.
+A Ala-Gly
+B Ala-Gly-Arg
+C Arg-His-Phe
+D His-Phe
+E Phe
+25. Which one of the following dipeptides has a pI of (about) 3?
+
+26. A complete hydrolysis of DNA gives the following pyrimidine bases:
+A adenine and guanine
+B uracil and thymine
+C thymine and guanine
+D cytosine and uracil
+E cytosine and thymine
+27. What kind of bond connects adenine and ribose within a strand of RNA?
+A glycosidic bond
+B hydrogen bond
+C peptide bond
+D phosphodiester bond
+E purinoribosidic bond
+28. What is the reaction mechanism between alkylators and DNA?
+A free-radical addition
+B electrophilic addition
+C nucleophilic substitution
+D oxidation of deoxyribose
+E pi-pi stacking interactions with nucleobases
+29. Which one of the following interactions of a drug and drug target is stronger?
+A ionic
+B hydrogen bonding
+C covalent bonding
+D dipole-dipole interactions
+E pi-pi stacking interactions
+30. Which one of the following biomolecules is NOT a common drug target?
+A membrane phospholipids
+B enzymes
+C DNA
+D nuclear receptors
+E ion channels
 
 
 
-Page 1 of 17Office Use OnlySemester Two (November) 2014Examination PeriodFaculty of Pharmacy and Pharmaceutical SciencesUNIT CODE: PSC1022TITLE OF PAPER: Bioorganic and Medicinal Chemistry IIEXAM DURATION: 3 hours writing timeREADING TIME: 10 minutesTHIS PAPER IS FOR STUDENTS STUDYING AT: Berwick Clayton Malaysia Off Campus Learning  Open Learning Caulfield Gippsland Peninsula Enhancement Studies  Sth Africa Parkville Other (specify)During an exam, you must not have in your possession, a book, notes, paper, electronic device/s,calculator, pencil case, mobile phone or other material/item which has not been authorised for theexam or specifically permitted as noted below. Any material or item on your desk, chair or personwill be deemed to be in your possession. You are reminded that possession of unauthorisedmaterials, or attempting to cheat or cheating in an exam is a discipline offence under Part 7 of theMonash University (Council) Regulations.No exam paper or other exam materials are to be removed from the room.AUTHORISED MATERIALSOPEN BOOK YES NOCALCULATORS YES NOIf ‘YES’ has been selected, only scientific calculators with a "Monash University, Faculty ofPharmacy and Pharmaceutical Sciences Approved" sticker attached are permitted in examinationsfor Pharmacy and Pharmaceutical Science students. No graphic calculators will be permitted.SPECIFICALLY PERMITTED ITEMS YES NOif yes, items permitted are:Candidates must complete this section if required to write answers within this paperSTUDENT ID: __ __ __ __ __ __ __ __ DESK NUMBER: __ __ __ __ __Section A [60 marks] + Section B [96 marks] = 156 marks Section A Multiple Choice Questions [30 questions  2 = 60 marks]RECORD YOUR ANSWERS TO THESE QUESTIONS ON THE SEPARATE MULTIPLE CHOICEANSWER SHEET PROVIDED.1. Ligands such as ethylenediamine are referred to as:A bidentateB bidenatedC tridentateD bidensate2. The correct name for [CoCl(NH3)5]SO4 is:A chloridopentaamminecobalt(III) sulfateB pentaamminechloridocobalt(III) sulfateC chloridopentaamminecobalt(II) sulfateD pentaamminechloridocobalt(II) sulfate3. Chlorpromazine is an anti-psychotic agent. What is the classification of the amines I and II?A I: primary aliphatic; II: primary aromaticB I: tertiary aliphatic, II: primary aromaticC I: tertiary aliphatic, II: tertiary aromaticD I: tertiary aromatic, II: tertiary aliphaticPage 2 of 17 4. Rank the following from most basic to least basic:A II, III, I, IVB IV, III, II, IC I, III, IV, IID III, IV, I, II5. Which is the correct structure for diphenylamine?A IB IIC IIID IV6. Many nucleophilic addition reactions of aldehydes and ketones are accelerated by acid orbase. Acids catalyse these reactions by:A shifting the equilibrium of the reactionB making the carbonyl group less electrophilicC reacting with base produced during the reactionD making the carbonyl group more electrophilicE activating the nucleophilePage 3 of 17 Page 4 of 177. Arrange the compounds in order of increasing boiling point (lowest first).A III, I, IV, IIB I, II, IV, IIIC III, IV, I, IID II, I, III, IVE None of the above8.Which is the main product from the reaction of (S)-2-methylpentanal with an aqueous base?A IB IIC IIID IV9. Which compound reacts with aqueous acid to give an aldehyde?A aB bC cD d 10. Which of the following is a characteristic reaction of carboxylic acids and their derivatives?A acetalisationB nucleophilic acyl substitutionC nucleophilic acyl additionD electrophilic substitution11. What is the IUPAC name for the following compound?A 2-oxohexanoic acidB 5-oxohexanoic acidC methyl butyroxo ketoneD 5-ketohexanoic acid12. Which compound is prepared by reaction of benzoic acid with ammonia and water?A aB bC cD d13. Arrange the compounds in order of increasing acidity (lowest first).A IV, I, II, IIIB III, II, IV, IC IV, II, I, IIID II, I, III, IVE None of the abovePage 5 of 17 14. Which is the correct structure for phenyl benzoate?A aB bC cD d15. Which is the product of the reaction of phthalic anhydride with methanol?A aB bC cD dE None of the abovePage 6 of 17 16. Which is the final product of a series of reactions starting with ethyl benzoate and reactingwith 1) aqueous sulfuric acid and heat, 2) thionyl chloride, and 3) ethylamine?A aB bC cD d17. Which physical property of triacylglycerols rich in unsaturated fatty acids is responsible forthe lower melting point than the corresponding saturated compounds?A hydrophobic attractionsB hydrophilic interactionsC cis-carbon-carbon double bond steric interactionsD hydrogen bondingE increased interactions with water18. Which reagents could be used to harden an oil to a fat?A NaBH4 / H2OB Ni / H2C Ag(NH3)2+/ H2OD Cu2+ / bufferE heat19. How many stereocentres are present in methandrostenolone (below)?A 4B 5C 6D 8Page 7 of 17 20. Phospholipids are an abundant class of natural lipids and make up about 40-50% of cellmembranes. A phospholipid is derived from phosphatidic acid by esterification of thephosphate group with an alcohol. Which of the following is NOT one of the most commonalcohols found in phospholipids?A cholineB cholesterolC inositolD ethanolamine21. Which polymers are correctly matched to their primary use?I) Kevlar and containersII) Polymethylmethacrylate and PlexiglasIII) Polytetrafluoroethylene and non-stick coatingsIV) PET and bulletproof vestsA I, IIIB II, IIIC II, IVD III, IV22. Which classification best describes the mechanism of the synthesis of polyamides via stepgrowth polymerization?A nucleophilic acyl additionB nucleophilic acyl substitutionC electrophilic additionD radical substitution23. What kind of bonds connect nucleotides within a strand of DNA?A glycosidic bondsB hydrogen bondsC peptide代 写PSC1022 Bioorganic and Medicinal Chemistry IIR
-代做程序编程语言 bondsD phosphodiester bondsPage 8 of 17 24. What is the relationship between the following compounds?A enantiomersB anomersC meso compoundsD diastereomers25. Assign the stereocentres in D-Galactose according to the S/R-system.A 2R, 3R, 4R, 5RB 2R, 3R, 4S, 5SC 2R, 3S, 4S, 5RD 2S, 3S, 4R, 5R26. What will reduction of D-fructose (below) with NaBH4 yield?A a single chiral alditolB two diastereomersC a pair of enantiomeric alditolsD a meso compoundPage 9 of 17 27. Which is the DNA complement for 5’-ACCGTTAAT-3’?A 5’-ATTAACGGT-3’B 5’-GTTACCGGC-3’C 5’-TGGCAATTA-3’D 5’-CAATGGCCG-3’28. Which is the order of increasing percentage in cells of messenger RNA, transfer RNA,ribosomal RNA (least first)?A mRNA, tRNA, rRNAB tRNA, rRNA, mRNAC rRNA, tRNA, mRNAD mRNA, rRNA, tRNA29. Which sequence of one-letter codes correctly represents the following hexapeptide?A TSYLMTB TSYKMTC TMLYSTD TMKYSTE TSFKMT30. Which is the structure of the pentapeptide that gave lys-leu-phe on reaction with cyanogenbromide, and gave fragments met-lys, leu-phe, and arg on reaction with trypsin?A arg-met-phen-leu-lysB lys-leu-phe-arg-metC arg-met-lys-leu-pheD met-arg-lys-leu-pheEXAMINATION CONTINUES OVER PAGEPage 10 of 17 Section B Written Answer Questions [96 marks]ANSWER QUESTIONS ONE TO TEN IN THE BOOKLET PROVIDED.START EACH QUESTION ON A NEW PAGE.QUESTION ONEThe amine shown below can be prepared from benzyl bromide.(a) Give reaction(s), mechanism(s) and reagents that would allow you to complete thistransformation in good yield.(b) What is the IUPAC name for this amine?[6 + 1 = 7 marks]QUESTION TWOPredict the magnetic properties of the [Fe(CN)6]3– complex anion. Justify your answer.Data: Fe3+ is a d5ion; CN–is a strong-field ligand.[5 marks]Page 11 of 17 QUESTION THREEMetals interactions with Aβ peptide in amyloid plaques are associated with Alzheimer’s disease(AD) [“Alzheimer’s disease  metals: therapeutic opportunities”, V. B. Kenche and K. J. Barnham,British Journal of Pharmacology 2011, 163, 211-219]. Compounds, which prevent theseinteractions, may have potential as disease modifying strategies for treating AD. Clioquinol (shownbelow) has moderate affinity for metal ions and has been tested in clinical trials against AD.(a) Name the donor atoms in the functional groups, which enable this molecule to bind totransition metal ions.(b) What is the term used to describe the action of this compound when it forms a coordinationcomplex?(c) Draw and classify two isomeric forms of the complex which could be formed between two ofthese organic molecules and a copper (II) ion.[2 + 2 + 6 = 10 marks]QUESTION FOURConsider the following chemical transformations.a) Draw structures of products (1), (2), and (3).b) Give the IUPAC name for compound (1).c) Reaction of (1) gives product (2). Describe type of this reaction on the basis of thechemical transformation involved and the reaction mechanism.d) Name functional groups in compound (3).[6 + 1 + 2 + 2 = 11 marks]Page 12 of 17 QUESTION FIVEConsider the following chemical transformations.1) Draw structures of products (1), (2), (3), and (5).2) What is reagent (4)?3) Give the IUPAC name for compound (1).4) Name the functional group(s) in compound (2).[8 + 2 + 1 + 1 = 12 marks]QUESTION SIX(a) Show with chemical equations how soaps can be made from triglycerides.(b) Why is hard water problematic for triglyceride derived soaps?(c) Would you expect the following fatty acids to occur naturally? Explain your answer for eachin 1-2 sentences.[2 + 1 + 4 = 7 marks]Page 13 of 17 QUESTION SEVENGiven the following structure, determine the polymer’s repeating unit; redraw the structure usingsimplified parenthetical notation, and name the polymer.[4 marks]QUESTION EIGHT(a) The chair conformation of β-D-glucopyranose is unusual in that all the substituents areequatorial. Draw the chair conformations of both α- and β-D-glucopyranose and theircorresponding Haworth projections, ensuring that you label each diagram.(b) Draw the Fischer projection for the compound resulting from treatment of L-glucose withsilver nitrate, and name the compound.[6 + 4 = 10 marks]Page 14 of 17 QUESTION NINEGiven the structures of the deoxynucleotides below, redraw these structures to indicate thearrangement of the Watson-Crick base pairs between them.[6 marks]Page 15 of 17 QUESTION TENPart A. The diagram below shows the binding mode of an analogue of the statin drug rosuvastatininto the active site of the enzyme HMG-CoA reductase. Seven important intermolecularinteractions are shown numbered 1 through to 7. Also in the active site is a water molecule(labelled 8) which resides next to the ethyl side chain on the pyrimidine ring and is also adjacent tothe side chain of leucine 562.Provide a descriptive name for each of the seven intermolecular interactions.Part B.Order the seven intermolecular interactions from weakest to strongest. [e.g. 6 < 3 and so forth].Part C.For the interaction labelled 3 (aspartate, 690) suggest an alternative functional group to replace thealcohol group (OH) that would result in a stronger interaction. Name this new interaction.Page 16 of 17 Part D.For the water molecule labelled 8, which resides next to the ethyl side chain on the pyrimidine ringand leucine 562, suggest an alternative group to the ethyl group which could then displace thewater molecule and allow the new group to further interact with the leucine 562 residue. Eithername the group you intend to replace with the ethyl group or draw the structure in your exambooklet. Briefly explain the reasoning behind your choice.Explain the advantage of displacing the water molecule.[7 + 7 + 2 + 8 = 24 marks]END OF EXAMINATIONPage 17 of 17
+
 
          
 加QQ：99515681  WX：codinghelp
